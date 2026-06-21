@@ -1,4 +1,7 @@
 # Python-
+#find Even & Odd number
+
+
 for i in range(10):
     num = int(input("\nEnter ten numbers:"))
 
