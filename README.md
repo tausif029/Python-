@@ -4,6 +4,7 @@
 
 
 for i in range(10):
+<br>
     num = int(input("\nEnter ten numbers:"))
 
     if num % 2 == 0:
