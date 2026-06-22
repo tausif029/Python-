@@ -1,5 +1,6 @@
 # Python-
 #find Even & Odd number
+\n
 
 
 for i in range(10):
